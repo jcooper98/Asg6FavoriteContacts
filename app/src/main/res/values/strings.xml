@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Asg. 6 - Favorite Contacts</string>
+    <string name="textViewNumber">2182088336</string>
+    <string name="textViewName">Jack Cooper</string>
+    <string name="buttonCall">Call</string>
+    <string name="buttonText">Text</string>
+    <string name="textViewName2">Julie Carlson</string>
+    <string name="textViewName3">Joe Stolp</string>
+    <string name="textViewNumber2">2183339494</string>
+    <string name="textViewNumber3">2189691121</string>
+    <string name="textViewStatus">Status:</string>
+</resources>
